@@ -84,7 +84,7 @@ Real-time monitoring of solar, wind, diesel & battery for remote polar stations,
 ### 🩸 RedConnect
 **Blood Donation & Emergency Coordination**
 
-4-role platform (Donor, Hospital, NGO, Admin) with a smart matching algorithm that cut match time by **60%**. 1,000+ donors, 50+ hospitals, 15+ APIs under 200ms.
+4-role platform (Donor, Hospital, NGO, Admin) with a smart matching algorithm that cut match time by **60%**.
 
 `React` `PostgreSQL` `Python` `Pandas`
 
