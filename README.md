@@ -135,11 +135,6 @@ Secure JWT auth (HttpOnly cookies), 30-day adherence analytics, automated Web Pu
 
 <img src="https://streak-stats.demolab.com?user=Sachin1707-jpg&theme=tokyonight&hide_border=true" alt="Streak stats"/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Sachin1707-jpg&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" alt="Trophies"/>
-
-### 📈 Contribution Graph
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sachin1707-jpg&theme=tokyo-night&hide_border=true&area=true&custom_title=Sachin's%20Contribution%20Graph" alt="Activity graph" width="100%"/>
-
 </div>
 
 
