@@ -1,33 +1,172 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>Designing scalable web applications and sharpening my problem-solving through advanced DSA practice.<br><br>👯 I’m looking to collaborate on<br>Meaningful projects that solve real-world problems, especially in web development and AI-driven solutions.<br><br>🤝 I’m looking for help with<br>Optimizing backend architecture, writing efficient algorithms, and understanding system design fundamentals.<br><br>🌱 I’m currently learning<br>Full-stack development, advanced JavaScript concepts, and data structures with a focus on performance and scalability.<br><br>💬 Ask me about<br>Clean coding practices, DSA strategies, and building efficient, user-focused web applications.<br><br>⚡ Fun fact<br>I enjoy breaking down complex problems into simple logic—and I don’t stop until I find the most efficient solution 🚀
+<!-- ============ HEADER (animated waving banner) ============ -->
+<div align="center">
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,24&height=260&section=header&text=Sachin%20Verma&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=MERN%20Stack%20%7C%20Full%20Stack%20Developer%20%7C%20Data%20%26%20AI%20Enthusiast&descSize=20&descAlignY=58" alt="Sachin Verma banner"/>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]https://www.linkedin.com/in/sachin-verma-859191384/ [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sachinverma964839@gmail.com) 
+<!-- Animated typing -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=900&color=00E5FF&center=true&vCenter=true&width=760&height=50&lines=Hi+%F0%9F%91%8B+I'm+Sachin%2C+a+MERN+Stack+Developer;Building+scalable+healthcare+%26+AI+platforms;2x+Hackathon+Winner+%F0%9F%8F%86+%7C+5x+Finalist;Sub-200ms+APIs+%7C+JWT+Auth+%7C+Real-Time+Systems;Solving+real-world+problems+with+code+%F0%9F%9A%80" alt="Typing animation"/>
+</a>
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Sachin Verma&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Sachin Verma&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sachin Verma&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<br/>
 
----
-[![](https://visitcount.itsvg.in/api?id=Sachin Verma&icon=0&color=0)](https://visitcount.itsvg.in)
+<img src="https://komarev.com/ghpvc/?username=Sachin1707-jpg&label=Profile%20Views&color=00b4d8&style=for-the-badge" alt="Profile views"/>
+<img src="https://img.shields.io/badge/CGPA-8.4%2F10-2ea44f?style=for-the-badge&logo=googlescholar&logoColor=white" alt="CGPA"/>
+<img src="https://img.shields.io/badge/Open%20to-Internships%20%26%20Collabs-ff6f61?style=for-the-badge&logo=handshake&logoColor=white" alt="Open to work"/>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->## Hi there 👋
+<br/><br/>
 
-<!--
-**Sachin1707-jpg/Sachin1707-jpg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://www.linkedin.com/in/sachinvermadev"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:sachinverma964839@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://github.com/Sachin1707-jpg"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://polar-ems-barl.vercel.app/"><img src="https://img.shields.io/badge/Live%20Project-Polar%20EMS-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live project"/></a>
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
+
+## 👨‍💻 About Me
+
+```js
+const sachin = {
+  role: "MERN Stack & Full Stack Developer",
+  education: "B.Tech CSE @ ABES Engineering College (CGPA 8.4)",
+  currentlyBuilding: "Scalable web apps + AI-driven solutions",
+  currentlyLearning: ["System Design", "Advanced JavaScript", "Advanced DSA"],
+  lookingToCollab: "Real-world problems in web dev & AI",
+  achievements: ["2x Hackathon Winner", "5x Finalist", "IIT Bombay Open Source Program"],
+  funFact: "I don't stop until I find the most efficient solution ⚡"
+};
+```
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+**Languages**<br/>
+<img src="https://skillicons.dev/icons?i=js,ts,python,c,cpp&theme=dark" alt="Languages"/>
+
+**Frontend**<br/>
+<img src="https://skillicons.dev/icons?i=react,vite,html,css,tailwind&theme=dark" alt="Frontend"/>
+
+**Backend & Databases**<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,mongodb,postgres,firebase&theme=dark" alt="Backend"/>
+
+**Data & Analytics**<br/>
+<img src="https://skillicons.dev/icons?i=pandas,numpy,matplotlib,jupyter&theme=dark" alt="Data"/>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
+
+**Tools & Deployment**<br/>
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,vercel,netlify,railway&theme=dark" alt="Tools"/>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### ❄️ Polar EMS
+**AI-Driven Smart Energy Management**
+
+Real-time monitoring of solar, wind, diesel & battery for remote polar stations, with ML forecasting, AI alerts and a What-If simulator.
+
+`React` `FastAPI` `Python` `ML` `WebSockets`
+
+[🔗 Live Demo](https://polar-ems-barl.vercel.app/)
+
+</td>
+<td width="33%" valign="top">
+
+### 🩸 RedConnect
+**Blood Donation & Emergency Coordination**
+
+4-role platform (Donor, Hospital, NGO, Admin) with a smart matching algorithm that cut match time by **60%**. 1,000+ donors, 50+ hospitals, 15+ APIs under 200ms.
+
+`React` `PostgreSQL` `Python` `Pandas`
+
+[🔗 Live Demo](https://red-connect-d-h-n.vercel.app/)
+
+</td>
+<td width="33%" valign="top">
+
+### 💊 MediCare Reminder
+**Full-Stack MERN Medication Manager**
+
+Secure JWT auth (HttpOnly cookies), 30-day adherence analytics, automated Web Push reminders with Node-cron, plus a health-tracking module.
+
+`MERN` `JWT` `Chart.js` `Web Push`
+
+[🔗 Live Demo](https://lenevo-assignment2.vercel.app/login)
+
+</td>
+</tr>
+</table>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
+
+## 💼 Experience
+
+| Role | Company | Period | Highlights |
+|:--|:--|:--|:--|
+| **Data Analyst Intern** | Bluestock Fintech (Remote) | May '26 – Jul '26 | Analyzed 10,000+ records with Python & SQL, cut data errors by 30%, built Power BI dashboards that reduced reporting time by 40% |
+| **IBM SkillsBuild Intern** (Gen AI & Cloud) | BharatCares / AICTE (Remote) | Jun '26 – Jul '26 | 6-week training in AI development, prompt engineering & cloud deployment, certified by AICTE & BharatCares |
+
+## 🏆 Hackathons & Achievements
+
+- 🥇 **Winner**, Tech Eximius 2026
+- 🎯 **Team Lead & Finalist**, Web Nova Hackathon (1,000+ national teams)
+- 🎯 **Finalist**, Hack on Titan Hackathon
+- 🌍 Open-source contributor, **IIT Bombay Open Source Program**
+- 🧩 100+ DSA problems solved on LeetCode, CodeChef 2-Star
+- 🎓 Technical Team Volunteer at ABES, organized workshops and contests for 100+ students
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Sachin1707-jpg&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" alt="GitHub stats"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sachin1707-jpg&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages"/>
+
+<img src="https://streak-stats.demolab.com?user=Sachin1707-jpg&theme=tokyonight&hide_border=true" alt="Streak stats"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Sachin1707-jpg&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" alt="Trophies"/>
+
+### 📈 Contribution Graph
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sachin1707-jpg&theme=tokyo-night&hide_border=true&area=true&custom_title=Sachin's%20Contribution%20Graph" alt="Activity graph" width="100%"/>
+
+</div>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sachin1707-jpg/Sachin1707-jpg/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sachin1707-jpg/Sachin1707-jpg/output/github-snake.svg"/>
+  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/Sachin1707-jpg/Sachin1707-jpg/output/github-snake-dark.svg"/>
+</picture>
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+**💬 Ask me about:** clean coding practices · DSA strategies · building efficient, user-focused web apps<br/>
+**🙋 Looking for help with:** backend architecture optimization · system design fundamentals
+
+<a href="mailto:sachinverma964839@gmail.com">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=F7B731&center=true&vCenter=true&width=600&lines=Have+an+idea%3F+Let's+build+it+together+%F0%9F%9A%80;Open+to+internships%2C+collabs+%26+hackathons" alt="Contact typing"/>
+</a>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,24&height=120&section=footer" alt="footer"/>
+
+</div>
