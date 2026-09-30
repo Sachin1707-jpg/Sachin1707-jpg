@@ -1,8 +1,6 @@
 <!-- ============ HEADER (animated waving banner) ============ -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,24&height=260&section=header&text=Sachin%20Verma&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=MERN%20Stack%20%7C%20Full%20Stack%20Developer%20%7C%20Data%20%26%20AI%20Enthusiast&descSize=20&descAlignY=58" alt="Sachin Verma banner"/>
-
 <!-- Animated typing -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=900&color=00E5FF&center=true&vCenter=true&width=760&height=50&lines=Hi+%F0%9F%91%8B+I'm+Sachin%2C+a+MERN+Stack+Developer;Building+scalable+healthcare+%26+AI+platforms;2x+Hackathon+Winner+%F0%9F%8F%86+%7C+5x+Finalist;Sub-200ms+APIs+%7C+JWT+Auth+%7C+Real-Time+Systems;Solving+real-world+problems+with+code+%F0%9F%9A%80" alt="Typing animation"/>
@@ -144,17 +142,6 @@ Secure JWT auth (HttpOnly cookies), 30-day adherence analytics, automated Web Pu
 
 </div>
 
-## 🐍 Contribution Snake
-
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sachin1707-jpg/Sachin1707-jpg/output/github-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sachin1707-jpg/Sachin1707-jpg/output/github-snake.svg"/>
-  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/Sachin1707-jpg/Sachin1707-jpg/output/github-snake-dark.svg"/>
-</picture>
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
 
 ## 🤝 Let's Connect
 
